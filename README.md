@@ -12,15 +12,21 @@
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;With “Aventri", it is an online event registration application that aims to improve efficiencies and eliminates unnecessary paperwork, it also maximizes participation and improves marketing capabilities while allowing participants to sign up when and where it is most convenient for them. Evento will eliminate all the manual intervention and increase the speed of the whole process. System will allow users to fill the form online, system has inbuilt validation system to validate the entered data. Application will generate the result instantly and store the results for further use. Improve management productivity, satisfaction and retention by eliminating paper trails and manual processes with complete online management for handling management for registration of events. Manage all users information easily in a comprehensive record that includes users information. Simply Event Management System with easy record management. <i class="fa-solid fa-1"></i>
 
 ![SDG-banner](https://user-images.githubusercontent.com/102575349/178129362-0dd72bc5-0c5e-4a31-9099-6b881d9e2b39.png) 
-<p align=justify>&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
+<p align=justify>&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are Decent Work and Economic Growth, Sustainable Cities and Communities and Partnerships for the Goals. These SDGs are further described as follows:
 
 
  <b>Goal 8: Decent Work and Economic Growth</b></h3>
- 
-![09a707b8db04b](https://user-images.githubusercontent.com/102575349/178129860-78d89d4d-8feb-481a-8e64-72bc175c1761.jpg)
- 
-<b>Goal 8: Decent Work and Economic Growth</b></h3>
- ![a9a086682fa49](https://user-images.githubusercontent.com/102575349/178130180-60db0e04-7c28-498f-8beb-80497654e7a1.jpg | width=100)
+ ![sdg 8 grande en](https://user-images.githubusercontent.com/102575349/178130435-cf5629a2-aa08-4e27-99ed-5744d20b144a.jpg)
+
+<b>Goal 11: Sustainable Cities and Communities</b></h3>
+![a9a086682fa49](https://user-images.githubusercontent.com/102575349/178130449-4afd25b9-84ff-4ea6-ab1e-ae1534883631.jpg)
+
+<b>Goal 17: Partnerships for the Goals</b></h3>
+![e29ea527169bf](https://user-images.githubusercontent.com/102575349/178130462-85a9df40-fceb-459f-9022-d9085d18dab7.jpg)
+
+
+
+
 
 
 
