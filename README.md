@@ -37,7 +37,8 @@
 
 <h3> Significance of the Proposed Project </h3>
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; The purpose of the developed system is to make the registration a snap for the attendees. In order to manage such issues the proponents require an easy to use system that will help in effectively tracking such problems.  In this application, the proponents are going to make use of the aforementioned technology through which the event  system and management is made feasible with the help of a customized application.  
-<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;The audience registration will only serve as a request at first until the system admin or management will reach back to the possible audience to talk or verify the audience registry confirmation for the event. Evento focuses on the online reservations of events where admin(s) can easily show, add, edit, delete, monitor and secure all the reservations. Users must provide personal information in the form to be filled up, for booking an appointment.
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;The audience registration will only serve as a request at first until the system admin or management will reach back to the possible audience to talk or verify the audience registry confirmation for the event. Aventri focuses on the online reservations of events where admin(s) can easily show, add, edit, delete, monitor and secure all the reservations. Users must provide personal information in the form to be filled up, for booking an appointment. This research is highly significant to the following recipients:
+
 
 
 
