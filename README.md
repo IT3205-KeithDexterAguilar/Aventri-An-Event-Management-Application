@@ -2,7 +2,7 @@
 
 <h2 align="center"> Aventri: A Hybrid Event Management Application
 
-<h3> Abstract </h3> <i class="fa-solid fa-1"></i>
+<h3> Introduction </h3> <i class="fa-solid fa-1"></i>
 <p align=justify>
 &nbsp;&nbsp;&nbsp;&nbsp; The increasingly rapid development of information technology has now spread in almost all fields such as education, daily life, business, health, facilities, transportation, and government. They have enhanced the ability to exchange knowledge, and accelerate the flow of information and communication. One of the things that people are into, and they really enjoy are attending events. And these events are somehow already coping up with what technology has to offer now. 
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Events play an important role in our society. Any happening or an activity can be referred to as an event. Individuals often find they lack the expertise and time to plan events themselves. Independent planners are needed to step in and give these special events the attention they deserve. In the current scenario, planning an event requires a lot of patience and hustle bustle right from deciding the theme to deciding venue and events. Lots of factors need to be considered while making each decision. Also once the party is planned a lot of on the day issues such as maintaining low noise levels after a particular time, or neighbors complaining about the noise levels etc. take the fun out of the party/event.
