@@ -12,9 +12,9 @@
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;With “Aventri", it is an online event registration application that aims to improve efficiencies and eliminates unnecessary paperwork, it also maximizes participation and improves marketing capabilities while allowing participants to sign up when and where it is most convenient for them. Evento will eliminate all the manual intervention and increase the speed of the whole process. System will allow users to fill the form online, system has inbuilt validation system to validate the entered data. Application will generate the result instantly and store the results for further use. Improve management productivity, satisfaction and retention by eliminating paper trails and manual processes with complete online management for handling management for registration of events. Manage all users information easily in a comprehensive record that includes users information. Simply Event Management System with easy record management. <i class="fa-solid fa-1"></i>
 
 ![SDG-banner](https://user-images.githubusercontent.com/102575349/178129362-0dd72bc5-0c5e-4a31-9099-6b881d9e2b39.png) 
-<p align=justify>&nbsp;&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
+<p align=justify>&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
 
-<img src="https://user-images.githubusercontent.com/102575349/178129702-12054ada-6410-469c-8b47-b11c6a35449b.png" width="500" height="700" />
+<img src="https://user-images.githubusercontent.com/102575349/178129702-12054ada-6410-469c-8b47-b11c6a35449b.png" width="400" height="400" />
 
 
  
