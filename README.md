@@ -1,7 +1,7 @@
 ![android-app-apk-banner](https://user-images.githubusercontent.com/102575349/178132385-5702d31e-f171-4b83-9a00-fd9e2c125f86.jpg)
 
 
-<h2 align="center"> Aventri: A Hybrid Event Management Application
+<h2 align="center"> AVENTRI: A Hybrid Event Management Application
 
 <h3> Introduction </h3> <i class="fa-solid fa-1"></i>
 <p align=justify>
