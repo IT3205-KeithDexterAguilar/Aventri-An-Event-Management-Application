@@ -19,7 +19,12 @@
  
 ![09a707b8db04b](https://user-images.githubusercontent.com/102575349/178129860-78d89d4d-8feb-481a-8e64-72bc175c1761.jpg)
  
-<h3 align=center><b>Goal 11: Sustainable Cities and Communities</b></h3>
+<b>Goal 11: Sustainable Cities and Communities</b></h3>
+![a9a086682fa49](https://user-images.githubusercontent.com/102575349/178130005-17060205-aca2-4db4-b73d-85f64dc4f450.jpg)
+
+<h3 align=center><b>Goal 17: Partnerships for the Goals</b></h3>
+![e29ea527169bf](https://user-images.githubusercontent.com/102575349/178130016-a266a238-2101-4e8e-892c-f325d39b8f4b.jpg)
+
 
 
 
