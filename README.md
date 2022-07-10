@@ -39,6 +39,13 @@
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; The purpose of the developed system is to make the registration a snap for the attendees. In order to manage such issues the proponents require an easy to use system that will help in effectively tracking such problems.  In this application, the proponents are going to make use of the aforementioned technology through which the event  system and management is made feasible with the help of a customized application.  
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;The audience registration will only serve as a request at first until the system admin or management will reach back to the possible audience to talk or verify the audience registry confirmation for the event. Aventri focuses on the online reservations of events where admin(s) can easily show, add, edit, delete, monitor and secure all the reservations. Users must provide personal information in the form to be filled up, for booking an appointment. This research is highly significant to the following recipients:
 
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Proponents.</b> The proponents who built this system can also benefit from the project as it helps them practice and enhance skills and mind resulting in a useful and more creative system. By working as a team the proponents have improved cooperating with each other and have better time management to accomplish goals that would produce good results. 
+
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Sudents.</b> The purpose of Avantri is to give a better and good service  to the client. To provide information and ideas about the events to make it  successful. Users can easily look for an online event service and can automatically book for the specified transaction.
+
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Future Researchers.</b> Behind those students who will undergo research study soon. It will serve as a reference to them. Especially to those proposed  systems which are related to Event Management Application.
+
+
 
 
 
