@@ -1,4 +1,4 @@
-![Aventri](https://user-images.githubusercontent.com/102575349/178128460-cf7b9bda-4f83-46d4-b821-7a8104dc6ec5.png)
+![joshua-sukoff-8MqHw9paOrE-unsplash](https://user-images.githubusercontent.com/102575349/178128874-d34edf07-58f8-4b7a-982f-8cf657ae0be0.jpg)
 
 <h2 align="center"> Aventri: A Hybrid Event Management Application
 
