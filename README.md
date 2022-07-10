@@ -14,7 +14,9 @@
 ![SDG-banner](https://user-images.githubusercontent.com/102575349/178129362-0dd72bc5-0c5e-4a31-9099-6b881d9e2b39.png) 
 <p align=justify>&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
 
-<h3 align=center><b>Goal 8: Decent Work and Economic Growth</b></h3>
+
+ <b>Goal 8: Decent Work and Economic Growth</b></h3>
+ 
 ![09a707b8db04b](https://user-images.githubusercontent.com/102575349/178129860-78d89d4d-8feb-481a-8e64-72bc175c1761.jpg)
  
 <h3 align=center><b>Goal 11: Sustainable Cities and Communities</b></h3>
