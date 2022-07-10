@@ -11,7 +11,6 @@
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Organizers don’t have to worry about sorting the information submitted by participants; the database will be updated automatically, and that is a massive advantage in terms of saving time. The main benefit of a good online registration system is it creates one simple collection point for all information you require from  delegates, presenters and exhibitors.
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;With “Aventri", it is an online event registration application that aims to improve efficiencies and eliminates unnecessary paperwork, it also maximizes participation and improves marketing capabilities while allowing participants to sign up when and where it is most convenient for them. Evento will eliminate all the manual intervention and increase the speed of the whole process. System will allow users to fill the form online, system has inbuilt validation system to validate the entered data. Application will generate the result instantly and store the results for further use. Improve management productivity, satisfaction and retention by eliminating paper trails and manual processes with complete online management for handling management for registration of events. Manage all users information easily in a comprehensive record that includes users information. Simply Event Management System with easy record management. 
 
-<h1 align="center"> 
 ![SDG-banner](https://user-images.githubusercontent.com/102575349/178129362-0dd72bc5-0c5e-4a31-9099-6b881d9e2b39.png)
 
 
