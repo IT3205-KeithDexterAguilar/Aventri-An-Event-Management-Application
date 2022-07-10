@@ -10,3 +10,16 @@
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Event Management Application (EMA) is a web based application that supports online registration and feedback evaluation for event training programs such as games, seminars and workshops. It helps program attendees, organizers, the authors and the reviewers in their respective activities. Development of an event management system is an attempt to address the problems of managing registration forms, feedback forms and evaluating feedback. The main goal of this system is to give a working solution to store, manage and consolidate the registration data and the feedback data. When using an online registration application, the participants can simply register at their convenience and submit their information immediately. The participant can do corrections as needed without worrying about erasing or cutting. The information the participant sends will be immediately loaded into the database. 
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;Organizers don’t have to worry about sorting the information submitted by participants; the database will be updated automatically, and that is a massive advantage in terms of saving time. The main benefit of a good online registration system is it creates one simple collection point for all information you require from  delegates, presenters and exhibitors.
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp;With “Aventri", it is an online event registration application that aims to improve efficiencies and eliminates unnecessary paperwork, it also maximizes participation and improves marketing capabilities while allowing participants to sign up when and where it is most convenient for them. Evento will eliminate all the manual intervention and increase the speed of the whole process. System will allow users to fill the form online, system has inbuilt validation system to validate the entered data. Application will generate the result instantly and store the results for further use. Improve management productivity, satisfaction and retention by eliminating paper trails and manual processes with complete online management for handling management for registration of events. Manage all users information easily in a comprehensive record that includes users information. Simply Event Management System with easy record management. 
+
+<h1 align="center"> 
+
+<h3> Sustainable Development Goals (SDGs) </h3>
+<p align=justify>&nbsp;&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
+
+ <h3 align=center><b>Goal 1: End Poverty</b></h3>
+ 
+![sdg1](https://user-images.githubusercontent.com/74886614/170424894-90ff5e28-8837-4d9c-abc4-4fb7495a71f6.jpg)
+
+ <h3 align=center><b>Goal 8: Decent Work and Economic Growth</b></h3>
+ 
+ ![sdg8](https://user-images.githubusercontent.com/74886614/170425067-e871e740-bc5b-4f8e-8569-c7ef4a2e3cb0.jpg)
