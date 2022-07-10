@@ -19,7 +19,8 @@
  ![sdg 8 grande en](https://user-images.githubusercontent.com/102575349/178130435-cf5629a2-aa08-4e27-99ed-5744d20b144a.jpg)
 
 <b>Goal 11: Sustainable Cities and Communities</b></h3>
-![a9a086682fa49](https://user-images.githubusercontent.com/102575349/178130449-4afd25b9-84ff-4ea6-ab1e-ae1534883631.jpg)
+![sdg 11 grande en](https://user-images.githubusercontent.com/102575349/178130531-3c364cfe-7e25-4100-983d-ad28f6e9389b.jpg)
+
 
 <b>Goal 17: Partnerships for the Goals</b></h3>
 ![e29ea527169bf](https://user-images.githubusercontent.com/102575349/178130462-85a9df40-fceb-459f-9022-d9085d18dab7.jpg)
