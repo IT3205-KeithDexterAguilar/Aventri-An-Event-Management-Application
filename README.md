@@ -21,7 +21,7 @@
  
 <b>Goal 8: Decent Work and Economic Growth</b></h3>
  
-<img src="![a9a086682fa49](https://user-images.githubusercontent.com/102575349/178130101-f2eb5c14-033b-424c-9c51-9394a2c549b0.jpg)" width="200" height="400" />
+"![a9a086682fa49](https://user-images.githubusercontent.com/102575349/178130101-f2eb5c14-033b-424c-9c51-9394a2c549b0.jpg)" width="700" height="200" />
 
 
  
