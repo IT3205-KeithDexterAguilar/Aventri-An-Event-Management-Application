@@ -13,7 +13,7 @@
 
 <h1 align="center"> 
 ![SDG-banner](https://user-images.githubusercontent.com/102575349/178129362-0dd72bc5-0c5e-4a31-9099-6b881d9e2b39.png)
-
+<br>
 <p align=justify>&nbsp;&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
 
  
