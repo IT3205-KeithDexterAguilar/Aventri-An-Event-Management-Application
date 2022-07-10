@@ -13,13 +13,7 @@
 
 <h1 align="center"> 
 
-<h3> Sustainable Development Goals (SDGs) </h3>
+![sdg1](https://user-images.githubusercontent.com/74886614/170424894-90ff5e28-8837-4d9c-abc4-4fb7495a71f6.jpg)![sdg-onu_logo_0](https://user-images.githubusercontent.com/102575349/178129245-b3182dfa-863c-4480-9575-6a1465ad4290.jpg)
 <p align=justify>&nbsp;&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are to End Poverty and Decent Work and Economic Growth. These SDGs are further described as follows:
 
- <h3 align=center><b>Goal 1: End Poverty</b></h3>
  
-![sdg1](https://user-images.githubusercontent.com/74886614/170424894-90ff5e28-8837-4d9c-abc4-4fb7495a71f6.jpg)
-
- <h3 align=center><b>Goal 8: Decent Work and Economic Growth</b></h3>
- 
- ![sdg8](https://user-images.githubusercontent.com/74886614/170425067-e871e740-bc5b-4f8e-8569-c7ef4a2e3cb0.jpg)
