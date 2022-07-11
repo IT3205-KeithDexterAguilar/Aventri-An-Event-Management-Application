@@ -47,7 +47,7 @@
 
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Proponents.</b> The proponents who built this application can also benefit from the project as it helps them practice and enhance skills and mind resulting in a useful and more creative application. By working as a team the proponents have improved cooperating with each other and have better time management to accomplish goals that would produce good results. 
 
-<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Sudents.</b> The purpose of Avantri is to give a better and good service  to the client. To provide information and ideas about the events to make it  successful. Users can easily look for an online event service and can automatically book for the specified transaction.
+<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Students.</b> The purpose of Avantri is to give a better and good service  to the client. To provide information and ideas about the events to make it  successful. Users can easily look for an online event service and can automatically book for the specified transaction.
 
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Future Researchers.</b> Behind those students who will undergo research study soon. It will serve as a reference to them. Especially to those proposed application which are related to Event Management Application.
 
