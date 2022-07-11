@@ -16,15 +16,15 @@
 <p align=justify>&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are Decent Work and Economic Growth, Sustainable Cities and Communities and Partnerships for the Goals. These SDGs are further described as follows:
 
 
- <b>Goal 8: Decent Work and Economic Growth</b></h3>
- ![sdg 8 grande en](https://user-images.githubusercontent.com/102575349/178130435-cf5629a2-aa08-4e27-99ed-5744d20b144a.jpg)
+<b>Goal 8: Decent Work and Economic Growth</b></h3>
+<br>
+![8](https://user-images.githubusercontent.com/102575349/178177873-ba5f61a9-df42-4a91-8918-8808f34100cb.png)
 
-<b>Goal 12: Partnerships for the Goals</b></h3>
+<b>Goal 11: Sustainable Cities and Communities</b></h3>
 <br>
 ![11](https://user-images.githubusercontent.com/102575349/178177629-7c7d1a0b-7cab-4282-87a1-aa2818df21ce.png)
 
-
-<b>Goal 12: Partnerships for the Goals</b></h3>
+<b>Goal 17: Partnerships for the Goals</b></h3>
 <br>
 ![Final](https://user-images.githubusercontent.com/102575349/178177185-ee639212-b4d8-4415-992c-b4e35e59d5f9.png)
 
