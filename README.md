@@ -19,8 +19,10 @@
  <b>Goal 8: Decent Work and Economic Growth</b></h3>
  ![sdg 8 grande en](https://user-images.githubusercontent.com/102575349/178130435-cf5629a2-aa08-4e27-99ed-5744d20b144a.jpg)
 
-<b>Goal 11: Sustainable Cities and Communities</b></h3>
-![sdg 11 grande en](https://user-images.githubusercontent.com/102575349/178130531-3c364cfe-7e25-4100-983d-ad28f6e9389b.jpg)
+<b>Goal 12: Partnerships for the Goals</b></h3>
+<br>
+![11](https://user-images.githubusercontent.com/102575349/178177629-7c7d1a0b-7cab-4282-87a1-aa2818df21ce.png)
+
 
 <b>Goal 12: Partnerships for the Goals</b></h3>
 <br>
